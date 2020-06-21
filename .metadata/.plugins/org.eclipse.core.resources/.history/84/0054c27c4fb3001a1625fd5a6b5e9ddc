@@ -1,0 +1,5 @@
+package com.drmodi.documentsupload.repository;
+
+public class DocumentRepository {
+
+}

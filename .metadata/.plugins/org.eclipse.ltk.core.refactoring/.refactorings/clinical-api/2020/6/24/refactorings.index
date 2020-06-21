@@ -1,0 +1,4 @@
+1591662759940	Encapsulate field 'patient'
+1591663608836	Encapsulate field 'clinicalData'
+1592086150343	Extract method 'calculateBMI'
+1592086260839	Rename package 'com.drmodi.clinicals.controller.dto'

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=flight-reservation/src\/main\/java&lt;com.drmodi.flightreservation.repositories{ReservationRepository.java[ReservationRepository" modifiers="513" timestamp="1585500462000"/>
+<typeInfo handle="=flight-reservation/\/Users\/omsairam\/.m2\/repository\/ch\/qos\/logback\/logback-core\/1.2.3\/logback-core-1.2.3.jar&lt;ch.qos.logback.core.rolling(RollingFileAppender.class[RollingFileAppender" modifiers="33" timestamp="1533162298000"/>
+<typeInfo handle="=flight-reservation/\/Users\/omsairam\/.m2\/repository\/ch\/qos\/logback\/logback-classic\/1.2.3\/logback-classic-1.2.3.jar&lt;ch.qos.logback.classic.encoder(PatternLayoutEncoder.class[PatternLayoutEncoder" modifiers="33" timestamp="1533162298000"/>
+<typeInfo handle="=flight-reservation/\/Users\/omsairam\/.m2\/repository\/ch\/qos\/logback\/logback-core\/1.2.3\/logback-core-1.2.3.jar&lt;ch.qos.logback.core.rolling(TimeBasedRollingPolicy.class[TimeBasedRollingPolicy" modifiers="33" timestamp="1533162298000"/>
+<typeInfo handle="=flight-reservation/\/Users\/omsairam\/.m2\/repository\/ch\/qos\/logback\/logback-core\/1.2.3\/logback-core-1.2.3.jar&lt;ch.qos.logback.core.rolling(SizeAndTimeBasedFNATP.class[SizeAndTimeBasedFNATP" modifiers="33" timestamp="1533162298000"/>
+<typeInfo handle="=clinical-api/\/Users\/omsairam\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.3.0.RELEASE\/spring-data-jpa-2.3.0.RELEASE.jar&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1591568382000"/>
+</typeInfoHistroy>

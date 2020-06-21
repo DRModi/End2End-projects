@@ -1,0 +1,20 @@
+package com.drmodi.documentsupload.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+@Controller
+public class DocumentController {
+	
+	@RequestMapping("/displayUpload")
+	public String displayUpload() {
+		return "documentUpload";
+	}
+	
+	@RequestMapping(value = "/upload", method = RequestMethod.POST)
+	public String uploadDocument() {
+		return "documentUpload";
+	}
+
+}

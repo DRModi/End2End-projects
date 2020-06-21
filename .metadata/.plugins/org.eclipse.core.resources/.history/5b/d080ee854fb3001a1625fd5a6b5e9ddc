@@ -1,0 +1,9 @@
+package com.drmodi.documentsupload.repository;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.drmodi.documentsupload.entities.Document;
+
+public interface DocumentRepository extends CrudRepository<Document, Long.class> {
+
+}
